@@ -1,13 +1,13 @@
-title: Welcome to Flexton
-description: Flexton is a responsive and ultra-minimal theme for Jekyll.
-baseurl: "https://srinivasakumar-a.github.io/flexton/" # the subpath of your site, e.g. /blog
-url: "https://srinivasakumar-a.github.io/flexton/" # the base hostname & protocol for your site, e.g. http://example.com
+title: TECH a Look
+description: If you are Techie like me, you shall find this blog posts useful to you. You shall find Useful Articles, Programming Language Tips and Tricks, Code Snippets, Knowledge Base, My Personal Experiences and some fun stuff. Happy Reading
+baseurl: "https://www.srinivasakumar.com" # the subpath of your site, e.g. /blog
+url: "https://www.srinivasakumar.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
+author-name:    Srinivas Kumar
 author-image:   1.jpg
 author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
+author-email:   srinivasakumar.a@gmail.com # Add your email for contant form.
 author-twitter: artemsheludko_ # Add your twitter account
 about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
 
@@ -18,7 +18,7 @@ social-github:    artemsheludko
 social-pinterest: artemsheludko
 social-instagram: artemsheludko_
 social-youtube:
-social-vk:   
+social-vk:
 social-linkedin:
 
 # Newsletter
