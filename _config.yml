@@ -28,7 +28,7 @@ mailchimp: sriniak # Add your MailChimp form identifier. For example - blogenjoy
 google-analytics: UA-161904857-1 # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
-disqus-identifier: sriniak # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: pragna # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
