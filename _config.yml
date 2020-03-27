@@ -22,7 +22,7 @@ social-vk:
 social-linkedin:  sriniak
 
 # Newsletter
-mailchimp: sriniak # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: https://github.us17.list-manage.com/subscribe/post?u=498d6dddeb9e551be969fb68c&amp;id=f74e1e2fb1 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Google Analytics
 google-analytics: UA-161904857-1 # Add your identifier. For example UA-99631805-1
