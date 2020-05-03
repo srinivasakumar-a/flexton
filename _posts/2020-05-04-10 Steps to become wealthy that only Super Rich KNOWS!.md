@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Style Guide
+title: 10 Steps to become wealthy that only Super Rich KNOWS
 image: 21.jpg
 date: 2020-05-04 09:35:20 +0530
 tags: [money, wealth]
 categories: money
 published: true
 ---
-Recently, I was reading an article in Quora about the "_become wealthy in short time_". I was wondering how many quoran's are following this kind of an article? And to my surprise, there were many! When I started digging deeper to find more about this (off course, some googling :)) around 28% of the articles relate to this kind of topic, **MONEY**.
+Recently, I was reading an article in Quora about the "_become wealthy in short time_". I was wondering how many quoran's are following this kind of an article? And to my surprise, there were many! When I started digging deeper to find more about this (off course, some googling :)) around 28% of the articles relate to this kind of topic, **MONEY!**.
 
-I am sure the below steps that I shall enumerate, most of the Poor to Middle Class people know about it in one form or the other. But, they lack in is the discipline and "Priority Hijack" of mental state. Which on the later stage, they blame on the 'Situation', 'Luck' and the un-seeable 'God'!
+I am sure the below steps that I shall enumerate, most of the Poor to Middle Class people know about it in one form or the other. But, they lack in is the discipline and "_Priority Hijack_" of mental state. Which on the later stage, they blame on the `Situation`, `Luck` and the _un-seeable_ `God`!
 
 If you are reading this post and are eager to know the steps, here it is:
 
