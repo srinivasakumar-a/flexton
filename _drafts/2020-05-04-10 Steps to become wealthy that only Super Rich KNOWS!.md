@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Style Guide
+title: 10 Steps to become wealthy that only Super Rich KNOWS!
 image: 21.jpg
 date: 2020-05-04 09:35:20 +0530
 tags: [money, wealth]
