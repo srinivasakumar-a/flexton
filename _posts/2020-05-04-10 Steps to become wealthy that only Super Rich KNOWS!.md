@@ -5,6 +5,7 @@ image: 21.jpg
 date: 2020-05-04 09:35:20 +0530
 tags: [money, wealth]
 categories: money
+published: true
 ---
 Recently, I was reading an article in Quora about the "_become wealthy in short time_". I was wondering how many quoran's are following this kind of an article? And to my surprise, there were many! When I started digging deeper to find more about this (off course, some googling :)) around 28% of the articles relate to this kind of topic, **MONEY**.
 
