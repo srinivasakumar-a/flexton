@@ -4,7 +4,7 @@ baseurl: "https://www.srinivasakumar.com" # the subpath of your site, e.g. /blog
 url: "https://www.srinivasakumar.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Srinivas Kumar
+author-name:    Srinivasa Kumar
 author-image:   1.jpg
 author-job:     Entrepreneur, Programmer, Maverick
 author-email:   srinivasakumar.a@live.com # Add your email for contant form.
