@@ -19,4 +19,4 @@ Happy Learning :)
 
 #### Olympus - Group Sessions:
 
-<iframe width="100%" height="300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlqIamwiqjX7gfk1M4b1f3sqHDFNcY903woiAQs-JPNQ-mcwUg_IveTRM4CcNcJGAsK4JjYWZOUkLh/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"> </iframe>
+<iframe width="100%" height="300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlqIamwiqjX7gfk1M4b1f3sqHDFNcY903woiAQs-JPNQ-mcwUg_IveTRM4CcNcJGAsK4JjYWZOUkLh/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false;chrome=false"> </iframe>
