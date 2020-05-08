@@ -19,4 +19,4 @@ Happy Learning :)
 
 ##Olympus - Group Sessions:
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlqIamwiqjX7gfk1M4b1f3sqHDFNcY903woiAQs-JPNQ-mcwUg_IveTRM4CcNcJGAsK4JjYWZOUkLh/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlqIamwiqjX7gfk1M4b1f3sqHDFNcY903woiAQs-JPNQ-mcwUg_IveTRM4CcNcJGAsK4JjYWZOUkLh/pubhtml?gid=0&amp;range=a1:h26;single=true&amp;widget=false&amp;headers=false"></iframe>
