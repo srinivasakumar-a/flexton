@@ -16,6 +16,7 @@ In this blog post, I shall try to reconcile the online session from the major br
 Happy Learning :)
 
 ***
+{:toc}
 
 #### Stay Home with LEICA:
 
@@ -49,5 +50,15 @@ Happy Learning :)
 
 #### Professional Photographers of America (PPA):
 
+*THIS IS A GOLD MINE for Learning*
+
+In these tough times, PPA (America's renewed association for Photographers) has unlocked all of their Online Education to all Photographers and small business owners worldwide until the end of May.
+
+All you need to do is just create a Free Account with PPA to access 1,100+ online classes. If you already have a PPA account, login to access all of PPA's Education.
+Video Lessons included from the Veteren and Celebrity Photographers like Tony Corbell,  Suzette Allen, Melanie Anderson, Gina Barca, Rob Behm and Bert Behnke etc...
+
+Upcoming Webinars from PPA:
+
+<iframe width="100%" height="300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsJXNq2ot9H4I3yq0TzvUax3m8yz4hoImfGiG7pVmXcTCHCkWArvx3R5jDBTyB5ZypEZ6ifB8tdKx_/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 ***
