@@ -16,6 +16,7 @@ In this blog post, I shall try to reconcile the online session from the major br
 Happy Learning :)
 
 ***
+* Do not remove this line (it will not be displayed)
 {:toc}
 
 #### Stay Home with LEICA:
@@ -50,7 +51,7 @@ Happy Learning :)
 
 #### Professional Photographers of America (PPA):
 
-*THIS IS A GOLD MINE for Learning*
+**THIS IS A GOLD MINE for Learning**
 
 In these tough times, PPA (America's renewed association for Photographers) has unlocked all of their Online Education to all Photographers and small business owners worldwide until the end of May.
 
