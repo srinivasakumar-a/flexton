@@ -17,6 +17,7 @@ Happy Learning :)
 
 ***
 * Do not remove this line (it will not be displayed)
+**Table-of-Contents:**
 {:toc}
 
 #### Stay Home with LEICA:
