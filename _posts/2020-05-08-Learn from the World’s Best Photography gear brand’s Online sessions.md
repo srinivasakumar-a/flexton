@@ -17,6 +17,37 @@ Happy Learning :)
 
 ***
 
-#### Olympus - Group Sessions:
+#### Stay Home with LEICA:
 
-<iframe width="100%" height="300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlqIamwiqjX7gfk1M4b1f3sqHDFNcY903woiAQs-JPNQ-mcwUg_IveTRM4CcNcJGAsK4JjYWZOUkLh/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false"> </iframe>
+<iframe width="100%" height="300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSbQCiHuyH-AEAw1jXafBaUSPVToiuEYc8oITEPWUxHLndAQoaXyvERL87Hnc6nhVnA8DZK0Qjp853b/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+***
+
+#### NIKON Online School:
+
+<iframe width="100%" height="300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROtg9yAgzH1wY2nIzfvUPO-dWBcyX92w51l-y9zBj70HFVt3JVtVvyDWiuTX9k8UwgEqTwV-ugRZ76/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+***
+
+#### OLYMPUS - Group Sessions:
+
+<iframe width="100%" height="300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlqIamwiqjX7gfk1M4b1f3sqHDFNcY903woiAQs-JPNQ-mcwUg_IveTRM4CcNcJGAsK4JjYWZOUkLh/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false"></iframe>
+
+***
+
+#### CANON Masterclass:
+
+<iframe width="100%" height="300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRx8ZIyB3WaWU7LVC9Bp9aNzFnZKR4_G988--1YfLVE6_RkUszhldqEIHm4t7HlkKNqJ1_CCZ7JMg_B/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+***
+
+#### GODOX Lighting:
+
+<iframe width="100%" height="300" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTgIAYweGY63vmPmLbZ-0pxeh8DdD70OA4dsN4d5hRxzn5f_zhx-87qIbQsnbvzSZAfpFpQ55UCsS8t/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+***
+
+#### Professional Photographers of America (PPA):
+
+
+***
