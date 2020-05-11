@@ -131,3 +131,18 @@ for macOS: Powerful and customizable text editor with support for a huge list of
 One file mixing languages? Projects using different build systems? Third party code with different formatting preferences? Textmate can handle it all by associating detailed scope selectors with key shortcuts, settings. Clipboard history, custom themes, live HTML/Markdown preview, foldable code blocks, indented soft wrap, etc.
 
 ***
+
+#### LightTable
+is a next generation code editor that connects you to your creation with instant feedback. Light Table is very customizable and can display anything a Chromium browser can.
+
+![]({{site.baseurl}}/images/01texteditor/lighttable.jpg)
+
+One of the Top 10 highest Technology project on Kickstarter and includes features as below:
+* Watches: Next-gen `println` to keep track of important values in your code. Just add a watch to an expression and the value will be streamed back to LT in real time.
+* Inline evaluation: No more printing to the console in order to view your results. Simply evaluate your code and the results will be displayed inline.
+* Open Source: Developer tools should be open source. Every bit of Light Table’s code is available to the community because none of us are as smart as all of us.
+* Malleable: Keymaps, behaviours and Light Table’s Behaviour-Object-Tag engine means you can easily shape your IDE to whatever your work requires
+* Plugin Manager: The plugin manager hooks into the central list of plugins so you don’t have to go hunting all over the internet to find the ones you want.
+* Powerful Editing: Light Table is a lightweight, clean and sleek interface with all of the power and functionality you need and expect from your editor.
+
+***
