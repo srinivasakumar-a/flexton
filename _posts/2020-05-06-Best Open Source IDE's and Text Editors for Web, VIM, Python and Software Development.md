@@ -336,7 +336,7 @@ a smart, light and powerful text editor:
 
 ***
 
-References and Images Courtesy:
+References and Images Courtesy:  
 Websites:
 1. [http://brackets.io/](http://brackets.io/)
 2. [https://limetext.github.io/](https://limetext.github.io/)
