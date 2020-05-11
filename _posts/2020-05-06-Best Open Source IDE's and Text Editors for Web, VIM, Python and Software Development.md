@@ -198,3 +198,25 @@ is an Open-source online real-time collaborative LaTeX editor. Overleaf is an on
 It has a different Licensing models for cloud hosted applications with multiple target users including, Authors, Groups, Teachers, Institutions, Publishers and enterprises. However, the standalone hosting is free and open source.
 
 ***
+
+#### Kakoune
+is a code editor that implements Vi’s “keystrokes as a text editing language” model. As it’s also a modal editor, it is somewhat similar to the VIM editor. Kakoune has a strong focus on interactivity; most commands provide immediate and incremental results, while still being competitive with VIM.
+
+The features include:
+* Multiple Selections: are the central way of interacting in Kakoune, with powerful handling primitives (regex matches, filtering, splitting, aligning, text objects etc)
+* Customization: Users can extend the features of Kakoune or customize them to their liking with macros or hooks.
+* Text editing tools: Kakoune implements several tools to help editing/writing text: contextual help, as-you-type completion, syntax highlighting for several programming languages
+* Client/Server architecture: you can collaboratively edit the same file: all new windows created by the editor are clients and can simultaneously modify the content of a file.
+* Advanced text manipulation primitives: Text can be selected and modified at will in multiple ways
+* Active development and support: Regularly developed and implemented for new features.
+
+***
+
+#### Slap
+is a Sublime-like terminal-based text editor that strives to make editing from the terminal easier. It has first class mouse support (even over an SSH Connection). A Sublime-like file sidebar. Double-click to select word, highlight other occurrences. Configurable Sublime-like keybindings* (`Ctrl+S` save, `Ctrl+Z` undo, etc.). Copying/pasting with OS Clipboard support. Infinite undo/redo.
+
+![]({{site.baseurl}}/images/01texteditor/slap.jpg)
+
+Its features include Syntax highlighting for 100+ languages, bracket matching, auto indentation, heavily customizable via plugins and many other features that will make you leave nano, VIM and EMACS behind.
+
+***
