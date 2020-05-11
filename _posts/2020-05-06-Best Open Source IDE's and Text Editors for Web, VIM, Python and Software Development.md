@@ -122,3 +122,12 @@ is a terminal based text editor that aims to be easy to use and intuitive, while
 As its name indicates, Micro aims to be somewhat of a successor to the nano editor by being easy to install and use. It strives to be enjoyable as a full-time editor for people who prefer to work in a terminal or those who regularly edit files over SSH. It features include, Easy to use, Highly customizable, Colors and Highlighting, Multiple Cursors, Plugin System, Common Keybindings, Mouse Support, Terminal Emulator and many more.
 
 ***
+
+#### TextMate
+for macOS: Powerful and customizable text editor with support for a huge list of programming languages and developed as open source. This Editor has support for Multiple Carets, i.e., making multiple changes at once; swapping pieces of code and a lot more is made trivial with TextMate’s easy way to add multiple insertion points.
+
+![]({{site.baseurl}}/images/01texteditor/textmate.jpg)
+
+One file mixing languages? Projects using different build systems? Third party code with different formatting preferences? Textmate can handle it all by associating detailed scope selectors with key shortcuts, settings. Clipboard history, custom themes, live HTML/Markdown preview, foldable code blocks, indented soft wrap, etc.
+
+***
