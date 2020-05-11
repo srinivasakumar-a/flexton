@@ -306,7 +306,7 @@ Its Features Includes:
 
 ***
 
-####Leo Editor
+#### Leo Editor
 is a PIM, IDE and outliner that accelerates the workflow of programmers, authors and web designers. Outline nodes may appear in more than one place, allowing multiple organizations of data within a single outline.
 
 ![]({{site.baseurl}}/images/01texteditor/leoeditor.jpg)
@@ -338,26 +338,26 @@ a smart, light and powerful text editor:
 
 References and Images Courtesy:
 Website
-http://brackets.io/
-https://limetext.github.io/
-https://macromates.com/
-https://neovim.io/
-https://www.overleaf.com/
-http://thomaswilburn.net/caret/
-https://www.activestate.com/products/komodo-edit/
-http://leoeditor.com/
-http://spacemacs.org
-https://spacevim.org
-https://alm-tools.github.io/
-https://atom.io/
-http://lighttable.com/
-http://zedapp.org/
-https://code.visualstudio.com/
-https://micro-editor.github.io/
-http://kakoune.org/
-https://www.notepadsapp.com/
-https://v2.onivim.io/
-https://www.jetbrains.com/idea/
+[http://brackets.io/](http://brackets.io/)
+[https://limetext.github.io/](https://limetext.github.io/)
+[https://macromates.com/](https://macromates.com/)
+[https://neovim.io/](https://neovim.io/)
+[https://www.overleaf.com/](https://www.overleaf.com/)
+[http://thomaswilburn.net/caret/](http://thomaswilburn.net/caret/)
+[https://www.activestate.com/products/komodo-edit/](https://www.activestate.com/products/komodo-edit/)
+[http://leoeditor.com/](http://leoeditor.com/)
+[http://spacemacs.org](http://spacemacs.org)
+[https://spacevim.org](https://spacevim.org)
+[https://alm-tools.github.io/](https://alm-tools.github.io/)
+[https://atom.io/](https://atom.io/)
+[http://lighttable.com/](http://lighttable.com/)
+[http://zedapp.org/](http://zedapp.org/)
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
+[https://micro-editor.github.io/](https://micro-editor.github.io/)
+[http://kakoune.org/](http://kakoune.org/)
+[https://www.notepadsapp.com/](https://www.notepadsapp.com/)
+[https://v2.onivim.io/](https://v2.onivim.io/)
+[https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
 GitHub Link
 https://github.com/adobe/brackets
