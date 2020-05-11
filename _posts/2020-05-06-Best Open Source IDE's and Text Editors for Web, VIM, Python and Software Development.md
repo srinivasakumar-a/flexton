@@ -113,3 +113,12 @@ Highlighted features:
 * Neovim centric: Dark powered mode of SpaceVIM.
 
 ***
+
+#### Micro
+is a terminal based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals. It comes as a single batteries-included, static binary with no dependencies; you can download and use it right now!
+
+![]({{site.baseurl}}/images/01texteditor/micro.jpg)
+
+As its name indicates, Micro aims to be somewhat of a successor to the nano editor by being easy to install and use. It strives to be enjoyable as a full-time editor for people who prefer to work in a terminal or those who regularly edit files over SSH. It features include, Easy to use, Highly customizable, Colors and Highlighting, Multiple Cursors, Plugin System, Common Keybindings, Mouse Support, Terminal Emulator and many more.
+
+***
