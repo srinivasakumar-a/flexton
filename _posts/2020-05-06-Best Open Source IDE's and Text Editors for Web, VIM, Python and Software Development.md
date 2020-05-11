@@ -146,3 +146,39 @@ One of the Top 10 highest Technology project on Kickstarter and includes feature
 * Powerful Editing: Light Table is a lightweight, clean and sleek interface with all of the power and functionality you need and expect from your editor.
 
 ***
+
+#### IntelliJ IDEA
+Every aspect of IntelliJ IDEA has been designed to maximize developer productivity. Together, intelligent coding assistance and ergonomic design make development not only productive but also enjoyable.
+
+![]({{site.baseurl}}/images/01texteditor/intellij.jpg)
+
+Features include:
+1. Deep insight into your code
+* Smart Completion
+* Chain completion
+* Static members completion
+* Data flow analysis
+* Language Injection
+* Cross-language refactoring
+* Detecting duplicates
+* Inspections and quick-fixes
+2. Developer ergonomics
+* Editor-centric environment
+* Shortcuts for everything
+* Ergonomic user interface
+* Inline debugger
+3. Built-in developer tools
+* Version Control
+* Build Tools
+* Test runner and coverage
+* Decompiler
+* Terminal
+* Database tools
+* Application servers
+* Docker
+4. Polyglot experience
+* First class support for top frameworks
+* Many languages- One IDE
+5. Developer can choose his preferred edition
+
+***
