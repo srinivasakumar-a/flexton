@@ -220,3 +220,15 @@ is a Sublime-like terminal-based text editor that strives to make editing from t
 Its features include Syntax highlighting for 100+ languages, bracket matching, auto indentation, heavily customizable via plugins and many other features that will make you leave nano, VIM and EMACS behind.
 
 ***
+
+#### Oni2
+Onivim 2 is a retro-futuristic modal editor – the next iteration of the Onivim project – combining VIM Style modal editing with the aesthetics and language features of modern editors.
+
+![]({{site.baseurl}}/images/01texteditor/oni2.jpg)
+
+Features include:
+* Fast, native, cross-platform with instant startup
+* Works out-of-the box with modern UX
+* Extensible & Configurable with Themes and Snippets
+
+***
