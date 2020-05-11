@@ -13,7 +13,7 @@ Today we shall list out some of the Open Source Text editors which are sacred ap
 
 **TL;DR**
 
-The Excel list below showcases Best Opensource IDE's/Text Editors sorted based on the 'Stars' & 'Forks':
+The Excel list below showcases Best Opensource IDE's/Text Editors sorted based on the `Stars` & `Forks`:
 
 <iframe width="100%" height="400" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTpnivpBaNcRQ-vXMPqMmZEyKxnpfLrLW_U4aHIvcWOCZFHR2CLECKNiPiOpLK2Pg/pubhtml?gid=1302496584&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
@@ -57,11 +57,7 @@ Features include:
 ***
 
 #### Neovim
-Hyper extensible VIM based text editor with features including
-API is first-class: discoverable, versioned, and documented.
-MessagePack structured communication enables extensions in any language.
-Remote plugins run as co-processes, safely and asynchronously
-GUIs, IDEs, Web Browsers can ‘—embed’ NVIM as an editor or script host.
+Hyper extensible VIM based text editor with features including API is first-class: discoverable, versioned, and documented. MessagePack structured communication enables extensions in any language. Remote plugins run as co-processes, safely and asynchronously GUIs, IDEs, Web Browsers can `—embed` NVIM as an editor or script host.
 
 Its usage includes strong defaults, works the same everywhere: one build-type, one command. Modern terminal features such as cursor styling, focus events, bracketed paste. Build-in terminal emulator. Fully compatible with VIM’s editing model and the VIMScript language.
 
@@ -72,5 +68,20 @@ A modern, light weight, Open Source text editor that understands web design. Vis
 
 ![]({{site.baseurl}}/images/01texteditor/brackets.jpg)
 
-Brackets editor lets you open a window when push ‘command’ / ‘Ctrl+E’ to you all the selector with that ID. Live Preview to get real-time connection to your browser when changes in CSS and HTML are to be viewed. With Brackets you can use Quick Edit and Live Highlight with your LESS and SCSS files which will make working with them easier than ever.
+Brackets editor lets you open a window when push `command` / `Ctrl+E` to you all the selector with that ID. Live Preview to get real-time connection to your browser when changes in CSS and HTML are to be viewed. With Brackets you can use Quick Edit and Live Highlight with your LESS and SCSS files which will make working with them easier than ever.
 It can be installed on all the big platforms, Windows, Mac & Linux and have support for extensions to augment the additional functions.
+
+***
+
+#### Spacemacs
+A community driven Emacs distribution (The best editor is neither Emacs or VIM, its Emacs and VIM). Spacemacs is a new way to experience Emacs – a sophisticated and polished set-up focused on ergonomics, mnemonics and consistency.
+
+![]({{site.baseurl}}/images/01texteditor/spacemacs.jpg)
+
+Spacemacs consists of Four Core pillars: Mnemonic, Discoverable, Consistent and “Crowd-Configured”:
+* Mnemonic: Key binding are organized using mnemonic prefixes like `b` for buffer, `p` for project, `s` for search, `h` for help etc.
+* Discoverable: Innovative real-time display of available key bindings. Simple query system to quickly find available layers, packages and more
+* Consistent: Similar functionalities have the same key binding everywhere thanks to a clearly defined set of  conventions. Documentation is mandatory for any layer that ships with Spacemacs.
+* Crowd-Configured: Community driven configuration provides curated packages tuned by power users and bugs are fixed quickly.
+
+***
