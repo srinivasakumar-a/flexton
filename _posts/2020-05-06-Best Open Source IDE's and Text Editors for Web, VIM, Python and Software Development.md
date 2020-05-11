@@ -189,3 +189,12 @@ This is a repository of scripts to automatically build Microsoft’s `vscode` re
 Microsoft’s downloads of Visual Studio Code are licensed under “this not FLOSS License” and contain telemetry/tracking.
 
 ***
+
+#### Overleaf
+is an Open-source online real-time collaborative LaTeX editor. Overleaf is an online collaborative writing and publishing tool that makes the whole process of writing, editing and publishing scientific documents much quicker and easier and provides the convenience of an easy-t-use LaTeX editor with real-time collaboration and the fully compiled output produced automatically in the background as you type.
+
+![]({{site.baseurl}}/images/01texteditor/overleaf.jpg)
+
+It has a different Licensing models for cloud hosted applications with multiple target users including, Authors, Groups, Teachers, Institutions, Publishers and enterprises. However, the standalone hosting is free and open source.
+
+***
