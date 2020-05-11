@@ -232,3 +232,12 @@ Features include:
 * Extensible & Configurable with Themes and Snippets
 
 ***
+
+#### ALM
+A cloud ready IDE for TypeScript and is an extension of the language itself, not the other way around. A complete dev and analysis environment for TypeScript. Easy to install `npm install alm –g`. Easy to use: `alm`. All you need is the latest `chrome` and the latest `nodejs`.
+
+![]({{site.baseurl}}/images/01texteditor/alm.jpg)
+
+This project is also a demonstration on real world usage TypeScript + React + Redux + Socket IO + FreeStyle (CSSinJS) + Microsoft Monaco. If you want to experiment with these and create your own code editor, head on to the source code.
+
+***
