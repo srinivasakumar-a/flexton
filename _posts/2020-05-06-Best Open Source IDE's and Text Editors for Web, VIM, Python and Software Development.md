@@ -182,3 +182,10 @@ Features include:
 5. Developer can choose his preferred edition
 
 ***
+
+#### Vscodium
+This is a repository of scripts to automatically build Microsoft’s `vscode` repository into freely-licensed binaries with a community-driven default configuration.
+
+Microsoft’s downloads of Visual Studio Code are licensed under “this not FLOSS License” and contain telemetry/tracking.
+
+***
