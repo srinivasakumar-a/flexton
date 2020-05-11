@@ -22,6 +22,8 @@ The Excel list below showcases Best Opensource IDE's/Text Editors sorted based o
 #### Table-of-Contents:
 {:toc}
 
+***
+
 #### vscode
 **Vscode:** Visual Studio Code combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation and understanding support along with lightweight debugging, a rich extensibility model and lightweight integration with existing tools.
 
@@ -34,3 +36,20 @@ One of the most happening and developer preferred code editor with the following
 * Git commands built-in: Working with Git and other SCM providers has never been easier. Review differences, stage files and make commits right from the editor. Push and Pull from any hosted SCM service.
 * Extensible and Customizable: Want even more features? Install extensions to add new languages, themes, debuggers and to connect to additional services. Extensions run in separate processes ensuring they won’t slow down your editor.
 * Deploy with confidence and ease: with Microsoft Azure you can deploy and host your React, Angular, Vue, Node, Python (and more!) sites, store and query relational and document based data and scale with serverless computing, all with ease all from within VS Code.
+
+***
+
+#### atom
+**Atom:** A hackable text editor for the 21st Century. Great things happen when developers work together – from teaching and sharing knowledge to building better software. Teletype for Atom makes collaborating on code just as easy as it is to code alone, right from your editor.
+
+![]({{site.baseurl}}/images/01texteditor/atom.jpg)
+
+Work with Git and GitHub directly from Atom with the GitHub package. Create new branches, stage and commit, push and pull, resolve merge conflicts, view pull requests and more – all from within your editor. The GitHub package is already bundled with Atom, so you’re ready to go!
+
+Features include:
+* Cross platform editing: Atom works across OS, Windows, Linux and Mac OS
+* Smart auto completion: Atom helps you write code faster with a smart and flexible auto complete.
+* Multiple panes: Split your Atom interface into multiple panes to compare and edit code across files.
+* Built-in package manager: Search for and install new packages or create your own right from Atom.
+* File System browser: Easily browse and open a single file, a whole project, or multiple projects in one window.
+* Find and replace: find, preview and replace text as you type in a file or across all your projects.
