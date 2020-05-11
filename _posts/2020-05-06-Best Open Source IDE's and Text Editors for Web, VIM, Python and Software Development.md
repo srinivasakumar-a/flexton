@@ -241,3 +241,145 @@ A cloud ready IDE for TypeScript and is an extension of the language itself, not
 This project is also a demonstration on real world usage TypeScript + React + Redux + Socket IO + FreeStyle (CSSinJS) + Microsoft Monaco. If you want to experiment with these and create your own code editor, head on to the source code.
 
 ***
+
+#### Notepads
+A modern, lightweight text editor with a minimalist design.
+
+![]({{site.baseurl}}/images/01texteditor/notepads.jpg)
+
+This includes some features like:
+* Fluent design with a built-in tab system.
+* Blazingly fast and lightweight.
+* Launch from the command line or PowerShell by typing: notepads or notepads `%FilePath%`.
+* Multi-line handwriting support.
+* Built-in Markdown live preview.
+* Built-in diff viewer (preview your changes).
+* Session snapshot and multi-instances.
+
+***
+
+#### Zed
+a code editor built using web technologies, designed to rethink some of the assumptions that underlay most editors today. Some of the editor’s core features are the features it does not have: Tabs, always visible file tree, Menus and buttons and bells and whistles.
+
+Developers get bare bones, simple yet powerful editor that focuses on what matters most: making you as productive at editing code and text as possible. To enable this, Zed has
+* Multiple cursors. Once mastered, you will never edit code the same way again.
+* Code completion based on symbols defined in your project, current file and snippets.
+* Efficient project navigation at various levels of granularity:
+* Split views, 1, 2, or 3 vertical splits.
+* Auto updating preview split for various languages (including markdown and coffeescript)
+* Editing of local files (via Chrome-specific APIs) and remote files (Check the manual on how to do this)
+
+***
+
+#### KomodoEdit
+is a fast and free multi-language code editor, written in JS, Python, and C++ and based on Mozilla platform. This Editor provides more robust functionality such as debugging, unit testing, code refactoring and code profiling. There are two flavors KOMODO EDIT and KOMODO IDE
+
+![]({{site.baseurl}}/images/01texteditor/komodoedit.jpg)
+
+The feature list between EDIT and IDE versions are noticeable and IDE has more features like:
+* Advanced Editor
+* Code Intelligence
+* Graphical Debugging
+* Version Control and Integrated Tools
+* Workflow and File Management
+* Add-ons and Customization
+* Support majority of Software languages
+* Dev Team Capabilities and many more
+
+***
+
+#### Caret
+Based on the amazing Ace Editing component, Caret brings professional Strength text editing to Chrome OS. With Caret, you no longer need to install a second OS to get what other platforms take for granted, a serious editor for local files, aimed at working programmers.
+
+![]({{site.baseurl}}/images/01texteditor/caret.jpg)
+
+Its Features Includes:
+* Syntax highlighting and themes
+* Multiple Cursors
+* Command Palette
+* Hackable Configuration
+* Project browsing and configuration
+* Tabbed editing and offline support
+* GOTO Considered useful
+* Retained mode
+* Experimental plugin API and many more
+
+***
+
+####Leo Editor
+is a PIM, IDE and outliner that accelerates the workflow of programmers, authors and web designers. Outline nodes may appear in more than one place, allowing multiple organizations of data within a single outline.
+
+![]({{site.baseurl}}/images/01texteditor/leoeditor.jpg)
+
+Leo completely integrates Python scripting and outlines. Simulating the following features in VIM, Emacs or Eclipse is possible, just as it is possible to simulate Python in assembly language. The unique feature list includes:
+* All commands and Scripts have easy access to outline structure via a simple Python API.
+* Clones create multiple views of an outline.
+* Scripts and programs can be composed from outlines using outline-oriented directives.
+* Importers convert flat text into outlines
+* `@test` and `@suite` scripts create unit tests automatically.
+* `@button` scripts apply scripts to outline data
+
+***
+
+#### Neoedit
+a smart, light and powerful text editor:
+* BSD LICENSE
+* Written in Java
+* Java Swing for GUI, highly customized components.
+* Good performance
+* Good Unicode, CJK support
+* Rectangular mode
+* Integrated IME support
+* Script in JAVA
+* Hack, Nerd, VIM like
+* Small executable, Stable and Since 2009
+
+***
+
+References and Images Courtesy:
+Website
+http://brackets.io/
+https://limetext.github.io/
+https://macromates.com/
+https://neovim.io/
+https://www.overleaf.com/
+http://thomaswilburn.net/caret/
+https://www.activestate.com/products/komodo-edit/
+http://leoeditor.com/
+http://spacemacs.org
+https://spacevim.org
+https://alm-tools.github.io/
+https://atom.io/
+http://lighttable.com/
+http://zedapp.org/
+https://code.visualstudio.com/
+https://micro-editor.github.io/
+http://kakoune.org/
+https://www.notepadsapp.com/
+https://v2.onivim.io/
+https://www.jetbrains.com/idea/
+
+GitHub Link
+https://github.com/adobe/brackets
+https://github.com/limetext/lime
+https://github.com/textmate/textmate
+https://github.com/neovim/neovim
+https://github.com/overleaf/overleaf
+https://github.com/slap-editor/slap
+https://github.com/thomaswilburn/Caret
+https://github.com/Komodo/KomodoEdit
+https://github.com/leo-editor/leo-editor
+https://github.com/syl20bnr/spacemacs
+https://github.com/SpaceVim/SpaceVim
+https://github.com/alm-tools/alm
+https://github.com/atom/atom
+https://github.com/LightTable/LightTable
+https://github.com/zedapp/zed
+https://github.com/microsoft/vscode
+https://github.com/zyedidia/micro
+https://github.com/neoedmund/neoeedit
+https://github.com/mawww/kakoune
+https://github.com/JasonStein/Notepads
+https://github.com/onivim/oni2
+https://github.com/VSCodium/vscodium
+https://github.com/JetBrains/intellij-community
