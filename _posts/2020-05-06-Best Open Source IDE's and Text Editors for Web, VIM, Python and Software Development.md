@@ -85,3 +85,14 @@ Spacemacs consists of Four Core pillars: Mnemonic, Discoverable, Consistent and 
 * Crowd-Configured: Community driven configuration provides curated packages tuned by power users and bugs are fixed quickly.
 
 ***
+
+#### Lime
+An Open source API compatible alternative to the text editor Sublime Text. If you liked Sublime Text editor and wanted it to be Open source then this is the one to checkout.
+
+Sublime has good plugin architecture and a large collection of existing plugins created for it. We want users to be able to take advantage of these extensions without requiring developers to support multiple APIs.
+
+![]({{site.baseurl}}/images/01texteditor/lime.jpg)
+
+Lime has a few frontends (QML, command-line interface) that can be selectively used with the pluggable backend. You can even develop your own and make it a drop-in replacement!
+
+***
