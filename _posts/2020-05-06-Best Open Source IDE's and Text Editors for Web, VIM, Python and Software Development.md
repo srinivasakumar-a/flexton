@@ -337,49 +337,49 @@ a smart, light and powerful text editor:
 ***
 
 References and Images Courtesy:
-Website
-[http://brackets.io/](http://brackets.io/)
-[https://limetext.github.io/](https://limetext.github.io/)
-[https://macromates.com/](https://macromates.com/)
-[https://neovim.io/](https://neovim.io/)
-[https://www.overleaf.com/](https://www.overleaf.com/)
-[http://thomaswilburn.net/caret/](http://thomaswilburn.net/caret/)
-[https://www.activestate.com/products/komodo-edit/](https://www.activestate.com/products/komodo-edit/)
-[http://leoeditor.com/](http://leoeditor.com/)
-[http://spacemacs.org](http://spacemacs.org)
-[https://spacevim.org](https://spacevim.org)
-[https://alm-tools.github.io/](https://alm-tools.github.io/)
-[https://atom.io/](https://atom.io/)
-[http://lighttable.com/](http://lighttable.com/)
-[http://zedapp.org/](http://zedapp.org/)
-[https://code.visualstudio.com/](https://code.visualstudio.com/)
-[https://micro-editor.github.io/](https://micro-editor.github.io/)
-[http://kakoune.org/](http://kakoune.org/)
-[https://www.notepadsapp.com/](https://www.notepadsapp.com/)
-[https://v2.onivim.io/](https://v2.onivim.io/)
-[https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
+Websites:
+1. [http://brackets.io/](http://brackets.io/)
+2. [https://limetext.github.io/](https://limetext.github.io/)
+3. [https://macromates.com/](https://macromates.com/)
+4. [https://neovim.io/](https://neovim.io/)
+5. [https://www.overleaf.com/](https://www.overleaf.com/)
+6. [http://thomaswilburn.net/caret/](http://thomaswilburn.net/caret/)
+7. [https://www.activestate.com/products/komodo-edit/](https://www.activestate.com/products/komodo-edit/)
+8. [http://leoeditor.com/](http://leoeditor.com/)
+9. [http://spacemacs.org](http://spacemacs.org)
+10. [https://spacevim.org](https://spacevim.org)
+11. [https://alm-tools.github.io/](https://alm-tools.github.io/)
+12. [https://atom.io/](https://atom.io/)
+13. [http://lighttable.com/](http://lighttable.com/)
+14. [http://zedapp.org/](http://zedapp.org/)
+15. [https://code.visualstudio.com/](https://code.visualstudio.com/)
+16. [https://micro-editor.github.io/](https://micro-editor.github.io/)
+17. [http://kakoune.org/](http://kakoune.org/)
+18. [https://www.notepadsapp.com/](https://www.notepadsapp.com/)
+19. [https://v2.onivim.io/](https://v2.onivim.io/)
+20. [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
-GitHub Link
-https://github.com/adobe/brackets
-https://github.com/limetext/lime
-https://github.com/textmate/textmate
-https://github.com/neovim/neovim
-https://github.com/overleaf/overleaf
-https://github.com/slap-editor/slap
-https://github.com/thomaswilburn/Caret
-https://github.com/Komodo/KomodoEdit
-https://github.com/leo-editor/leo-editor
-https://github.com/syl20bnr/spacemacs
-https://github.com/SpaceVim/SpaceVim
-https://github.com/alm-tools/alm
-https://github.com/atom/atom
-https://github.com/LightTable/LightTable
-https://github.com/zedapp/zed
-https://github.com/microsoft/vscode
-https://github.com/zyedidia/micro
-https://github.com/neoedmund/neoeedit
-https://github.com/mawww/kakoune
-https://github.com/JasonStein/Notepads
-https://github.com/onivim/oni2
-https://github.com/VSCodium/vscodium
-https://github.com/JetBrains/intellij-community
+GitHub Links:
+1. [https://github.com/adobe/brackets](https://github.com/adobe/brackets)
+2. [https://github.com/limetext/lime](https://github.com/limetext/lime)
+3. [https://github.com/textmate/textmate](https://github.com/textmate/textmate)
+4. [https://github.com/neovim/neovim](https://github.com/neovim/neovim)
+5. [https://github.com/overleaf/overleaf](https://github.com/overleaf/overleaf)
+6. [https://github.com/slap-editor/slap](https://github.com/slap-editor/slap)
+7. [https://github.com/thomaswilburn/Caret](https://github.com/thomaswilburn/Caret)
+8. [https://github.com/Komodo/KomodoEdit](https://github.com/Komodo/KomodoEdit)
+9. [https://github.com/leo-editor/leo-editor](https://github.com/leo-editor/leo-editor)
+10. [https://github.com/syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs)
+11. [https://github.com/SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)
+12. [https://github.com/alm-tools/alm](https://github.com/alm-tools/alm)
+13. [https://github.com/atom/atom](https://github.com/atom/atom)
+14. [https://github.com/LightTable/LightTable](https://github.com/LightTable/LightTable)
+15. [https://github.com/zedapp/zed](https://github.com/zedapp/zed)
+16. [https://github.com/microsoft/vscode](https://github.com/microsoft/vscode)
+17. [https://github.com/zyedidia/micro](https://github.com/zyedidia/micro)
+18. [https://github.com/neoedmund/neoeedit](https://github.com/neoedmund/neoeedit)
+19. [https://github.com/mawww/kakoune](https://github.com/mawww/kakoune)
+20. [https://github.com/JasonStein/Notepads](https://github.com/JasonStein/Notepads)
+21. [https://github.com/onivim/oni2](https://github.com/onivim/oni2)
+22. [https://github.com/VSCodium/vscodium](https://github.com/VSCodium/vscodium)
+23. [https://github.com/JetBrains/intellij-community](https://github.com/JetBrains/intellij-community)
