@@ -25,7 +25,7 @@ The Excel list below showcases Best Opensource IDE's/Text Editors sorted based o
 #### vscode
 **Vscode:** Visual Studio Code combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation and understanding support along with lightweight debugging, a rich extensibility model and lightweight integration with existing tools.
 
-![](https://photos.app.goo.gl/LvcBmZ7DG5F31HvQ6)
+![]({{site.baseurl}}/images/vscode.jpg)
 
 One of the most happening and developer preferred code editor with the following features which are increasing with every new release:
 
