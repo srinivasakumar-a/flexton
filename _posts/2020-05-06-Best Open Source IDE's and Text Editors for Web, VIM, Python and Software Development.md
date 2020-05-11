@@ -24,10 +24,10 @@ The Excel list below showcases Best Opensource IDE's/Text Editors sorted based o
 
 ***
 
-#### vscode
-**Vscode:** Visual Studio Code combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation and understanding support along with lightweight debugging, a rich extensibility model and lightweight integration with existing tools.
+#### Vscode
+Visual Studio Code combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation and understanding support along with lightweight debugging, a rich extensibility model and lightweight integration with existing tools.
 
-![]({{site.baseurl}}/images/vscode.jpg)
+![]({{site.baseurl}}/images/01texteditor/vscode.jpg)
 
 One of the most happening and developer preferred code editor with the following features which are increasing with every new release:
 
@@ -39,8 +39,8 @@ One of the most happening and developer preferred code editor with the following
 
 ***
 
-#### atom
-**Atom:** A hackable text editor for the 21st Century. Great things happen when developers work together – from teaching and sharing knowledge to building better software. Teletype for Atom makes collaborating on code just as easy as it is to code alone, right from your editor.
+#### Atom
+A hackable text editor for the 21st Century. Great things happen when developers work together – from teaching and sharing knowledge to building better software. Teletype for Atom makes collaborating on code just as easy as it is to code alone, right from your editor.
 
 ![]({{site.baseurl}}/images/01texteditor/atom.jpg)
 
@@ -53,3 +53,24 @@ Features include:
 * Built-in package manager: Search for and install new packages or create your own right from Atom.
 * File System browser: Easily browse and open a single file, a whole project, or multiple projects in one window.
 * Find and replace: find, preview and replace text as you type in a file or across all your projects.
+
+***
+
+#### Neovim
+Hyper extensible VIM based text editor with features including
+API is first-class: discoverable, versioned, and documented.
+MessagePack structured communication enables extensions in any language.
+Remote plugins run as co-processes, safely and asynchronously
+GUIs, IDEs, Web Browsers can ‘—embed’ NVIM as an editor or script host.
+
+Its usage includes strong defaults, works the same everywhere: one build-type, one command. Modern terminal features such as cursor styling, focus events, bracketed paste. Build-in terminal emulator. Fully compatible with VIM’s editing model and the VIMScript language.
+
+***
+
+#### Brackets
+A modern, light weight, Open Source text editor that understands web design. Visual tools are blended into the editor so that the developer gets the right amount of help when wanted without getting in the way of design and creative process.
+
+![]({{site.baseurl}}/images/01texteditor/brackets.jpg)
+
+Brackets editor lets you open a window when push ‘command’ / ‘Ctrl+E’ to you all the selector with that ID. Live Preview to get real-time connection to your browser when changes in CSS and HTML are to be viewed. With Brackets you can use Quick Edit and Live Highlight with your LESS and SCSS files which will make working with them easier than ever.
+It can be installed on all the big platforms, Windows, Mac & Linux and have support for extensions to augment the additional functions.
