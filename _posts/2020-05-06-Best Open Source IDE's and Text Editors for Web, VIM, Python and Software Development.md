@@ -96,3 +96,20 @@ Sublime has good plugin architecture and a large collection of existing plugins 
 Lime has a few frontends (QML, command-line interface) that can be selectively used with the pluggable backend. You can even develop your own and make it a drop-in replacement!
 
 ***
+
+#### SpaceVIM
+is a community driven modular VIM distribution. It manages collections of plugins in layers, which help to collect related packages together to provide IDE like features. SpaceVIM is not just a VIMRC but an ultimate VIM configuration.
+
+![]({{site.baseurl}}/images/01texteditor/spacevim.jpg)
+
+Highlighted features:
+* Great documentation: access documentation in SpaceVIM with `:h spacevim`.
+* Minimalistic and nice graphical UI: you’ll love the awesome UI and its useful features
+* Keep your fingers on the home row: for quicker editing with support for QWERTY and BEPO layouts.
+* Mnemonic key bindings: commands have mnemonic prefixes like `[WIN]` for all the window and buffer commands or `[Unite]` for the unite workflow commands.
+* Fast boot time: Lay-load 90% of plugins with `[dein.vim]`
+* Lower the risk of RSI: by heavily using the space bar instead of modifiers
+* Batteries included: discover hundreds of ready-to-use packages nicely organized in configuration layers following a set of conventions.
+* Neovim centric: Dark powered mode of SpaceVIM.
+
+***
