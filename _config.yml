@@ -1,7 +1,7 @@
 title: Srini's "TECH a Look"
 description: If you are Techie like me, you shall find this blog posts useful to you. You shall find Useful Articles, Programming Language Tips and Tricks, Code Snippets, Knowledge Base, My Personal Experiences and some fun stuff. Happy Reading
-baseurl: "https://www.srinivasakumar.com" # the subpath of your site, e.g. /blog
-url: "https://www.srinivasakumar.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://srinivasakumar-a.github.io/flexton/" # the subpath of your site, e.g. /blog
+url: "https://srinivasakumar-a.github.io/flexton/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    Srinivasa Kumar
@@ -25,7 +25,7 @@ social-linkedin:  sriniak
 mailchimp: github.us17.list-manage.com/subscribe/post?u=498d6dddeb9e551be969fb68c&amp;id=f74e1e2fb1 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Google Analytics
-google-analytics: UA-161904857-1 # Add your identifier. For example UA-99631805-1
+google-analytics: # UA-161904857- # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
 disqus-identifier: pragna # Add your shortname for Disqus Comment. For example mr-brown
